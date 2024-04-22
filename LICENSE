@@ -1,22 +1,17 @@
-MIT License
+This software and its related code are open-sourced under the MIT License. The author disclaims any control over the software, and users and distributors of the software are solely responsible for any consequences arising from its use. If you do not agree to these terms, you cannot use or reference any code or files within the software package.
 
-Copyright (c) 2023 liujing04
-Copyright (c) 2023 源文雨
+The licenses for related libraries are as follows:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ContentVec: MIT License
+VITS: MIT License
+HIFIGAN: MIT License
+gradio: Apache License 2.0
+ffmpeg: LGPLv3 License, MIT License
+ultimatevocalremovergui: MIT License
+audio-slicer: MIT License
+PySimpleGUI: LGPLv3 License
+Retrieval-based-Voice-Conversion-WebUI: MIT License
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+
